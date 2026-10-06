@@ -84,6 +84,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Infura](https://www.infura.io/) – Managed blockchain node infrastructure.
 - [Alchemy](https://www.alchemy.com/) – Blockchain developer platform and APIs.
 - [QuickNode](https://www.quicknode.com/) – High-performance blockchain node provider.
+- [LYFTIUM](https://www.lyftium.com/) – Ethereum Mainnet JSON-RPC (rpm pricing, `X-Api-Key`, fail-closed 503).
 
 ## Wallets & Key Management
 
